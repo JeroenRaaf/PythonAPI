@@ -6,7 +6,7 @@ strings = []
 
 
 @app.route('/getArray')
-def hello():
+def getArray():
     return strings
 
 
